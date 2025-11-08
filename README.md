@@ -1,12 +1,6 @@
 <h1 align="center"><b>Hi🌸!! My name is Graciela Osegueda </b></h1>
 <p align="center">
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ose15/Ose15/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ose15/Ose15/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ose15/Ose15/output/pacman-contribution-graph.svg">
-</picture> 
-
 <!--About Me-->
 
 ## <picture><img src = "https://i.gifer.com/Y3il.gif" width = 64px></picture> About me
