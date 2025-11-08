@@ -1,28 +1,32 @@
-<h1 align="left">Hi🌸!! My name is Graciela Osegueda</h1>
+<h1 align="center"><b>Hi🌸!! My name is Graciela Osegueda </b></h1>
+<p align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ose15/Ose15/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ose15/Ose15/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ose15/Ose15/output/pacman-contribution-graph.svg">
+</picture> 
 
+<!--About Me-->
 
+## <picture><img src = "https://i.gifer.com/Y3il.gif" width = 64px></picture> About me
+<picture> <img align="right" height="150" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/></picture>
 
+<br>
 
-###
-
-###
-
-<h3 align="left">About me</h3>
-<img align="right" height="150" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"  />
-<p align="left">I am a Software Engineering student with a passion for frontend development. I enjoy learning new technologies, developing projects, and improving my skills.</p>
-
-###
-- 📩 **Contact email:** [gracielaoseh11@gmail.com](gracielaoseh11@gmail.com)
+I am a Software Engineering student with a passion for frontend development. I enjoy learning new technologies, developing projects, and improving my skills.
+- 📩 **Contact email:** [gracielaoseh11@gmail.com](mailto:gracielaoseh11@gmail.com)
 
 <br>
 
 
-###
-
-<h2 align="left">I code with</h2>
-
-<!--tech icons-->
-
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">I code with </h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
   <img width="12" />
@@ -57,15 +61,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="32" alt="webstorm logo"  />
 </div>
 
-###
 
-<!--contact me -->
-<h3 align="right">Contact me</h3>
-
-###
-
-<div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> Contact me  </h2></summary>
+  </ul>
 </div>
-
-###
+<!--icons and links-->
