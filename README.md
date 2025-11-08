@@ -1,16 +1,20 @@
-<h1 align="center"><b>Hi🌸!! My name is Graciela Osegueda </b></h1>
-<p align="center">
+<h1 align="center"><b>🌸 Hi!! My name is Graciela Osegueda </b></h1>
+<p align="left">
+I’m a <b>Software Engineering student</b> with a passion for <b>frontend development</b>.  
+I love exploring new technologies, building creative projects, and improving my skills every day.
+</p
   
 <!--About Me-->
 
-## <picture><img src = "https://i.gifer.com/Y3il.gif" width = 64px></picture> About me
+## <picture><img src = "https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width = 23px></picture> About me
 <picture> <img align="right" height="150" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/></picture>
 
 <br>
 
-I am a Software Engineering student with a passion for frontend development. I enjoy learning new technologies, developing projects, and improving my skills.
+- 🚀 I’m interested in **web development** and UI/UX design.
+- 💬 Ask me about **React**, **Vue**, or **Frontend best practices**.  
+- ☕ Powered by coffee and good playlists.
 - 📩 **Contact email:** [gracielaoseh11@gmail.com](mailto:gracielaoseh11@gmail.com)
-
 <br>
 
 
