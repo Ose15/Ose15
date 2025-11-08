@@ -7,8 +7,9 @@ I love exploring new technologies, building creative projects, and improving my 
 <!--About Me-->
 
 ## <picture><img src = "https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width = 23px></picture> About me
-<picture> <img align="right" height="150" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/></picture>
+<picture> <img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlqbnl0YXN0NWNscDFid2lmZ3pldXUxd2V0dm0wcWhoa21rYmt5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7YCzIdUMR6qAfiooUa/giphy.gif"/></picture>
 
+<br>
 <br>
 
 - 🚀 I’m interested in **web development** and UI/UX design.
@@ -16,15 +17,12 @@ I love exploring new technologies, building creative projects, and improving my 
 - ☕ Powered by coffee and good playlists.
 - 📩 **Contact email:** [gracielaoseh11@gmail.com](mailto:gracielaoseh11@gmail.com)
 <br>
-
-
+<br>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block">I code with </h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+    <!--tech stack icons-->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
   <img width="12" />
@@ -58,12 +56,32 @@ I love exploring new technologies, building creative projects, and improving my 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="32" alt="webstorm logo"  />
 </div>
+  </ul>
+</div>
 
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block"> Skills </h2></summary>
+    <div align="center">  
+      
+  [![Good Communication](https://img.shields.io/badge/Good%20Communication-4682B4?style=for-the-badge&logo=googlemeet&logoColor=white)](#)
+  [![Fast Learner](https://img.shields.io/badge/Fast%20Learner-6A5ACD?style=for-the-badge&logo=gradle&logoColor=white)](#)
+  [![Teamwork](https://img.shields.io/badge/Teamwork-DB7093?style=for-the-badge&logo=handshake&logoColor=white)](#)
+  [![Organized](https://img.shields.io/badge/Organized-20B2AA?style=for-the-badge&logo=notion&logoColor=white)](#)
+  [![Adaptability](https://img.shields.io/badge/Adaptability-FF69B4?style=for-the-badge&logo=git&logoColor=white)](#)
+  [![Creativity](https://img.shields.io/badge/Creativity-BA55D3?style=for-the-badge&logo=figma&logoColor=white)](#)
+  [![Responsibility](https://img.shields.io/badge/Responsibility-FF6347?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
+    </div>
+  </ul>
+</div>
+ 
+ 
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block"> Contact me  </h2></summary>
   </ul>
 </div>
