@@ -27,7 +27,7 @@
 
 ## <img src="https://api.iconify.design/tabler/plant-2.svg?color=%23a78bfa" width="28" align="top"/> Right now
 
-<img align="right" width="240" src="assets/growing.svg" alt="Growing plant"/>
+<img align="right" width="200" src="assets/growing.svg" alt="Growing plant"/>
 
 <img src="https://api.iconify.design/tabler/book.svg?color=%23a78bfa" width="18" align="center"/>&nbsp; Finishing my last year of Computer Engineering at UCA<br/>
 <img src="https://api.iconify.design/tabler/test-pipe.svg?color=%23a78bfa" width="18" align="center"/>&nbsp; Getting better at test automation and CI/CD<br/>
