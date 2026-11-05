@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="220" viewBox="0 0 300 220">
+  <defs>
+    <linearGradient id="lid" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="base" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#DDD6FE"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <path id="spark" d="M0,-8 C1,-2 2,-1 8,0 C2,1 1,2 0,8 C-1,2 -2,1 -8,0 C-2,-1 -1,-2 0,-8 Z"/>
+    <path id="heart" d="M0,3 C-6,-2 -6,-7 -3,-8 C-1,-8.5 0,-7 0,-6 C0,-7 1,-8.5 3,-8 C6,-7 6,-2 0,3 Z"/>
+  </defs>
+
+  <!-- soft blob background -->
+  <ellipse cx="150" cy="120" rx="135" ry="88" fill="#FCE7F3" opacity="0.7">
+    <animate attributeName="rx" values="135;140;135" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- laptop lid -->
+  <rect x="60" y="38" width="170" height="112" rx="12" fill="url(#lid)"/>
+  <rect x="70" y="48" width="150" height="92" rx="5" fill="#2E2645"/>
+  <circle cx="80" cy="56" r="2.5" fill="#F9A8D4"/>
+  <circle cx="88" cy="56" r="2.5" fill="#FDE68A"/>
+  <circle cx="96" cy="56" r="2.5" fill="#86EFAC"/>
+
+  <!-- code lines typing in -->
+  <g>
+    <rect x="80" y="66" height="6" rx="3" width="0" fill="#F9A8D4">
+      <animate attributeName="width" values="0;0;60;60;0" keyTimes="0;0.02;0.12;0.9;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="92" y="78" height="6" rx="3" width="0" fill="#C4B5FD">
+      <animate attributeName="width" values="0;0;90;90;0" keyTimes="0;0.14;0.26;0.9;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="92" y="90" height="6" rx="3" width="0" fill="#FDE68A">
+      <animate attributeName="width" values="0;0;70;70;0" keyTimes="0;0.28;0.38;0.9;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="104" y="102" height="6" rx="3" width="0" fill="#86EFAC">
+      <animate attributeName="width" values="0;0;55;55;0" keyTimes="0;0.40;0.50;0.9;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="80" y="114" height="6" rx="3" width="0" fill="#F9A8D4">
+      <animate attributeName="width" values="0;0;40;40;0" keyTimes="0;0.52;0.62;0.9;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="80" y="126" width="5" height="8" rx="1" fill="#FFFFFF">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="80;80;125;125;80" keyTimes="0;0.62;0.66;0.9;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- laptop base -->
+  <path d="M42,150 L248,150 L262,164 Q262,170 256,170 L34,170 Q28,170 28,164 Z" fill="url(#base)"/>
+  <rect x="128" y="152" width="34" height="5" rx="2.5" fill="#A78BFA" opacity="0.6"/>
+
+  <!-- coffee mug -->
+  <g transform="translate(250,128)">
+    <path d="M-12,0 L12,0 L10,30 Q10,34 6,34 L-6,34 Q-10,34 -10,30 Z" fill="#F9A8D4"/>
+    <path d="M12,6 Q22,8 20,18 Q18,26 11,24" fill="none" stroke="#F9A8D4" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-5,14 C-7,10 -3,9 0,12 C3,9 7,10 5,14 L0,19 Z" fill="#FFFFFF" opacity="0.85"/>
+    <g fill="none" stroke="#C4B5FD" stroke-width="2.5" stroke-linecap="round">
+      <path d="M-5,-4 Q-9,-10 -5,-16 Q-1,-22 -5,-28">
+        <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,4;0,-4" dur="3s" repeatCount="indefinite"/>
+      </path>
+      <path d="M5,-4 Q1,-10 5,-16 Q9,-22 5,-28">
+        <animate attributeName="opacity" values="0;1;0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,4;0,-4" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+
+  <!-- sparkles -->
+  <g fill="#A78BFA">
+    <use href="#spark" transform="translate(40,50)">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
+    </use>
+  </g>
+  <g fill="#F472B6">
+    <use href="#spark" transform="translate(255,52) scale(0.8)">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+    </use>
+  </g>
+  <g fill="#FCD34D">
+    <use href="#spark" transform="translate(30,120) scale(0.6)">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- floating hearts -->
+  <g fill="#F472B6">
+    <use href="#heart" transform="translate(240,40)">
+      <animateTransform attributeName="transform" type="translate" values="240,60;246,20" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+    </use>
+  </g>
+  <g fill="#A78BFA">
+    <use href="#heart" transform="translate(52,30)">
+      <animateTransform attributeName="transform" type="translate" values="52,70;46,28" dur="5s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="5s" begin="1s" repeatCount="indefinite"/>
+    </use>
+  </g>
+</svg>
