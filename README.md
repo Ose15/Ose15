@@ -14,7 +14,7 @@
 
 ## <img src="https://api.iconify.design/tabler/user-heart.svg?color=%23a78bfa" width="28" align="top"/> About me
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlqbnl0YXN0NWNscDFid2lmZ3pldXUxd2V0dm0wcWhoa21rYmt5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7YCzIdUMR6qAfiooUa/giphy.gif" alt="Coding gif"/>
+<img align="right" width="300" src="assets/coding.svg" alt="Laptop typing code"/>
 
 <img src="https://api.iconify.design/tabler/school.svg?color=%23a78bfa" width="18" align="center"/>&nbsp; Fifth-year **Computer Engineering** student at UCA, El Salvador<br/>
 <img src="https://api.iconify.design/tabler/stack-2.svg?color=%23a78bfa" width="18" align="center"/>&nbsp; I build web and mobile apps end to end: React frontends that consume REST APIs, backends in **Spring Boot**, **NestJS** and **FastAPI**, and SQL/NoSQL databases<br/>
@@ -27,10 +27,14 @@
 
 ## <img src="https://api.iconify.design/tabler/plant-2.svg?color=%23a78bfa" width="28" align="top"/> Right now
 
+<img align="right" width="240" src="assets/growing.svg" alt="Growing plant"/>
+
 <img src="https://api.iconify.design/tabler/book.svg?color=%23a78bfa" width="18" align="center"/>&nbsp; Finishing my last year of Computer Engineering at UCA<br/>
 <img src="https://api.iconify.design/tabler/test-pipe.svg?color=%23a78bfa" width="18" align="center"/>&nbsp; Getting better at test automation and CI/CD<br/>
 <img src="https://api.iconify.design/tabler/sparkles.svg?color=%23a78bfa" width="18" align="center"/>&nbsp; Exploring agentic development workflows with AI coding tools<br/>
 <img src="https://api.iconify.design/tabler/heart-handshake.svg?color=%23a78bfa" width="18" align="center"/>&nbsp; Open to internships and trainee programs
+
+<br clear="right"/>
 
 ## <img src="https://api.iconify.design/tabler/rocket.svg?color=%23a78bfa" width="28" align="top"/> Featured projects
 
@@ -121,6 +125,8 @@
   <img src="https://img.shields.io/badge/Creativity-BA55D3?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:F9A8D4&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Be+kind.+Be+curious.+Be+creative.;Thanks+for+stopping+by+%F0%9F%92%9C" alt="Be kind. Be curious. Be creative. Thanks for stopping by!💜" />
+</p>
 
-<p align="center"><i>Be kind. Be curious. Be creative.</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:F9A8D4&height=100&section=footer" width="100%"/>
